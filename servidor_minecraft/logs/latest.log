@@ -973,3 +973,8 @@ com.google.gson.JsonSyntaxException: Missing expand, expected to find a Boolean
 [28Dec2024 05:31:38.383] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Aewa_ has made the advancement [Frosted Prison]
 [28Dec2024 05:32:11.285] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Aewa_: Set own game mode to Survival Mode]
 [28Dec2024 05:33:07.491] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Aewa_ has made the advancement [Too Many Bows]
+[28Dec2024 05:34:23.335] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Aewa_ has reached the goal [Bone Crusher]
+[28Dec2024 05:38:37.887] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Aewa_ has made the advancement [Disme A Dozen]
+[28Dec2024 05:39:17.681] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[28Dec2024 05:40:55.168] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Aewa_ has completed the challenge [Crusade Against Curse]
+[28Dec2024 05:41:47.883] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Aewa_ has completed the challenge [Eye of the Tiger]
