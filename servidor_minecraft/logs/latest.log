@@ -953,3 +953,23 @@ com.google.gson.JsonSyntaxException: Missing expand, expected to find a Boolean
 [28Dec2024 05:20:18.459] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/14150, l='ServerLevel[world]', x=-9168.46, y=92.99, z=-11349.26]
 [28Dec2024 05:22:18.861] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Aewa_: Gave 1 [Stone] to Aewa_]
 [28Dec2024 05:22:24.012] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Aewa_: Gave 100 [Stone] to Aewa_]
+[28Dec2024 05:23:51.975] [Netty Epoll Server IO #6/ERROR] [net.bettercombat.network.ServerNetwork/]: Server handling Packets.C2S_AttackRequest - No current attack hand!
+[28Dec2024 05:23:51.976] [Netty Epoll Server IO #6/ERROR] [net.bettercombat.network.ServerNetwork/]: Combo count: 0 is dual wielding: false
+[28Dec2024 05:23:51.976] [Netty Epoll Server IO #6/ERROR] [net.bettercombat.network.ServerNetwork/]: Main-hand stack: 0 air
+[28Dec2024 05:23:51.976] [Netty Epoll Server IO #6/ERROR] [net.bettercombat.network.ServerNetwork/]: Off-hand stack: 0 air
+[28Dec2024 05:23:51.976] [Netty Epoll Server IO #6/ERROR] [net.bettercombat.network.ServerNetwork/]: Selected slot server: 0 | client: 0
+[28Dec2024 05:24:50.334] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Aewa_: Gave 1 [Nether Star] to Aewa_]
+[28Dec2024 05:26:09.537] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Aewa_: Gave 1 [Eye of Desert] to Aewa_]
+[28Dec2024 05:27:31.037] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Aewa_: Gave 1 [Necklace of the desert] to Aewa_]
+[28Dec2024 05:27:35.287] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Aewa_ has made the advancement [Its Like Printing my Own Money!]
+[28Dec2024 05:28:05.389] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Aewa_ has reached the goal [Strong Undead]
+[28Dec2024 05:28:05.389] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Aewa_ has completed the challenge [Death finds a Way]
+[28Dec2024 05:28:12.788] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Aewa_ has made the advancement [Magic Writing]
+[28Dec2024 05:28:49.288] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Aewa_: Gave 1 [Netherite Backpack] to Aewa_]
+[28Dec2024 05:29:44.101] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element cataclysm:frosted_prison took 1514 ms
+[28Dec2024 05:29:58.843] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Aewa_: Teleported Aewa_ to -17775.500000, 47.000000, -13823.500000]
+[28Dec2024 05:29:58.843] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 11074ms or 221 ticks behind
+[28Dec2024 05:31:36.898] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Aewa_: Set own game mode to Spectator Mode]
+[28Dec2024 05:31:38.383] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Aewa_ has made the advancement [Frosted Prison]
+[28Dec2024 05:32:11.285] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Aewa_: Set own game mode to Survival Mode]
+[28Dec2024 05:33:07.491] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Aewa_ has made the advancement [Too Many Bows]
